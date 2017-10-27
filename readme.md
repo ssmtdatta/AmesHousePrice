@@ -33,3 +33,6 @@ Directory path names are stored here as parameters. User can define and access d
 Raw data features names and feature names separated by category are stored. User can combine different features in codes from here.
 * **fnc_featureSelection.py**  
 A user defined module. Contains functions to combine and engineer raw features in certain ways.
+
+`Prediction/`  
+Linear regression and random forest so far.   
