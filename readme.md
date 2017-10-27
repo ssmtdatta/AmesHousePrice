@@ -9,6 +9,11 @@ The [Ames Housing dataset](https://www.kaggle.com/c/house-prices-advanced-regres
 
 **Sub-directories:**  
 
+`DataDwn/`  
+Download and place raw data here.
+
+
+
 `EDA/`  
 Notebooks showing exploratory analysis.
 - **data_peek.ipynb**  
