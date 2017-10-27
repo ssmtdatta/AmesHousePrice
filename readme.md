@@ -24,3 +24,12 @@ Obtain a statistical summary of the data.
 Explore and visualize the distribution and trend of the features.
 - **data_features_univariate_corr.ipynb**
 Explore the linear correlation between the features and the target.
+
+`SupportModule/`  
+Helper functions and parameter files.
+* **lookup_dir_names.py**  
+Directory path names are stored here as parameters. User can define and access dir names from this file.
+* **lookup_feature_names.py**  
+Raw data features names and feature names separated by category are stored. User can combine different features in codes from here.
+* **fnc_featureSelection.py**  
+A user defined module. Contains functions to combine and engineer raw features in certain ways.
